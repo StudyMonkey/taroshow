@@ -27,7 +27,7 @@
           (n[e] = new Promise(function(t, n) {
             for (
               var r =
-                  "../css/" +
+                  "./taroshow/css/" +
                   ({
                     "3": "index_index",
                     "4": "login_login",
@@ -86,7 +86,7 @@
           (s.src = (function jsonpScriptSrc(e) {
             return (
               __webpack_require__.p +
-              "../chunk/" +
+              "./taroshow/chunk/" +
               ({
                 "3": "index_index",
                 "4": "login_login",
